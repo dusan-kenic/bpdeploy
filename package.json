@@ -1,0 +1,22 @@
+{
+  "name": "bpdeploy",
+  "version": "1.0.0",
+  "description": "will show the blueprint deployment status",
+  "main": "index.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusan-kenic/bpdeploy.git"
+  },
+  "keywords": [
+    "bpdeploy"
+  ],
+  "author": "D Kenic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusan-kenic/bpdeploy/issues"
+  },
+  "homepage": "https://github.com/dusan-kenic/bpdeploy#readme"
+}
